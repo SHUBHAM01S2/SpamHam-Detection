@@ -1,7 +1,3 @@
-Got it — I’ll draft a **README.md** for your "SpamHam" end-to-end project, covering **data gathering → model training → deployment** and including your **folder structure** exactly like in your screenshot.
-
-Here’s a suitable version:
-
 ---
 
 # 📧 SpamHam - End-to-End Spam Detection Project
