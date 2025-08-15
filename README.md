@@ -85,7 +85,7 @@ SPAMHAM-MAIN/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/spamham.git
+   git clone https://github.com/SHUBHAM01S2/SpamHam-Detection.git
    cd spamham
    ```
 
